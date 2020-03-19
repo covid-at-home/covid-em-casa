@@ -1,16 +1,23 @@
 ## Level 2 -- Emerging Symptoms
 
-Notice if you suffer from any of the following symptoms:
+![](/images/sneezing-emoji.png)
 
-* Dry cough
+Notice if you suffer from any of the following first symptoms:
+
 * Fever
-* Shortness of breath
-* Coughing up slime
 * Fatigue
+* Sore throat
+* Dry (unproductive) cough
+* Coughing up slime
+* Joint / muscle pain
+* Shortness of breath
+* Lack of hunger
+
+Initial symptoms may also include headache, chills, dizziness, nasal congestion, abdominal pain, diarrhea, nausea, and vomiting. Later in the infection, symptoms may include loss of smell and taste lasting for several days. 
 
 Is COVID-19 spread in the community where you live? Or have you been to an affected area or been around someone who was in an affected area? Then your symptoms could very well be COVID-19. But remember: In many areas, the odds that it's something else will still be greater.
 
-> Note: Fever is not subjective. You will need a thermometer (or two), and to keep track in a log of at least daily temperature. If you choose to take temperature rectally (i.e., in the ass), it will be more precise. Be sure you have enough wipes and alcohol to clean the thermometer after each use. If taking temperature orally, don’t eat or drink for 20 minutes beforehand. Either way, note the method in your log so healthcare personnel know which it is. (Around .7 degrees Celsius is often added to oral temperatures.) Here are some good instructions for [how to take an oral temperature](https://www.drugs.com/cg/how-to-take-an-oral-temperature.html).
+> Note: Fever is not subjective. You will need a thermometer (or two), and to keep track in a log of at least daily temperature. If you choose to take temperature internally (i.e., in the bottom / rectum), it will be more precise. Be sure you have enough wipes and alcohol to clean the thermometer after each use. If taking temperature orally, don’t eat or drink for 20 minutes beforehand. Either way, note the method in your log so healthcare personnel know which it is. (Around .7 degrees Celsius is often added to oral temperatures.) Here are some good instructions for [how to take an oral temperature](https://www.drugs.com/cg/how-to-take-an-oral-temperature.html).
 
 ### Diagnosis
 
@@ -28,11 +35,13 @@ Until tested and depending on where you are and where you have been, it may be p
 
 ### Family, flatmates, etc.
 
-Household members of people who are known or suspected to be infected should treat themselves as potentially also infected and self-quarantine too, while keeping the maximum practicable distance from the patient for as long as the patient can take care of him- or herself. Regularly clean all frequently touched surfaces with household bleach diluted with water: 10 ml / 2 tsp bleach with half a liter / 2 cups of water (carefully washing measurement tools before reuse). You can put that solution in a disused plant sprayer or cleaner spray bottle. You should give the spray a minute to work on surfaces before wiping it dry.
+Household members of people who are known or suspected to be infected should treat themselves as potentially also infected and self-quarantine too, while keeping the maximum practicable distance from the patient for as long as the patient can take care of him- or herself. This means being in different rooms, sleeping in different beds, eating separately, using different dishes and towels, and when possible, using different bathrooms. 
 
-Now at the latest is time to think about Personal Protection Equipment (PPE). If you can get masks and haven't been sick yet, it is probably a good idea to wear one. Disposable gloves, long-sleeve protective gowns, and eye protection may also be appropriate. The [shopping page](/shopping) on this website contains some ideas for personal protection items.
+Regularly clean all frequently touched surfaces with household bleach diluted with water: 10 ml / 2 tsp bleach with half a liter / 2 cups of water (carefully washing measurement tools before reuse). You can put that solution in a disused plant sprayer or cleaner spray bottle. You should give the spray a minute to work on surfaces before wiping it dry.
 
-In most places, there will probably come a time when the number of cases skyrockets, many people have already had COVID-19, and authorities will no longer keep records of who has had it and who hasn't. The basis then remain the same: Try to protect older people and people with existing illnesses as much as possible, and try to minimize spread whenever you can, as best you can. Remember: The more we can slow down the disease's spread, the better it is for everyone. Because by slowing the spread (i.e., flattening a potentially exponential curve), you can help lessen how overwhelmed the healthcare system is going to become. That in turn increases the proportion and number of people who need medical care, who are able to access it. This helps doctors and nurses save more lives. 
+Now at the latest is time to think about Personal Protection Equipment (PPE). If you can get masks, wear one. Disposable gloves, long-sleeve protective gowns, and eye protection may also be appropriate. The [shopping page](/shopping) on this website contains some ideas for personal protection items, as well as important information on when and how to use them.
+
+In most places, there will probably come a time when the number of cases skyrockets, many people have already had COVID-19, and authorities will no longer keep records of who has had it and who hasn't. The basis then remain the same: Try to protect older people and people with existing illnesses as much as possible, and try to minimize spread whenever you can, as best you can. Remember: The more we can slow down or altogether lessen the disease's spread, the better it is for everyone. Because by helping to slow or stop the spread, you can help lessen how overwhelmed the healthcare system is going to become. That in turn increases the proportion and number of people who need medical care, who are able to access it. This helps doctors and nurses save more lives. 
 
 ### Diary
 
@@ -40,30 +49,28 @@ When symptoms first start is the right time to start an illness diary.
 
 A few times a day, preferably at somewhat regular hours or points in your normal routines or rhythms (e.g., every morning before making coffee or tea), measure temperature, even if you don't feel like you have a fever (yet). Weigh once a day if possible. Also note respiratory and heart rates in breaths and beats per minute. It will get you used to doing these things, give you practise, and (if you start early) give you some idea what (more or less) healthy values for you look like. Not necessary, but extra points for blood pressure and oxygenation (Devices to measure those are cheap, see the [shopping page](/shopping)). 
 
-Then write down any symptoms the patient has. If he or she is in pain, where and when is the pain, and how bad on a scale of 0 (no pain) to 10 (worst pain imaginable)? How bad is the cough? What color if there is mucus being produced? Be sure to note what medication, if any, the patient takes. Paracetamol is a good choice for fever and pain suppression. Keeping an illness diary will also help you to keep track of how much you've taken, when, to ensure you treat fever adequately without taking more than the recommended amount in a 24-hour period. 
+Then write down any symptoms the patient has. If he or she is in pain, where and when is the pain, and how bad on a scale of 0 (no pain) to 10 (worst pain imaginable)? How bad is the cough? What color if there is mucus being produced? Be sure to note what medication, if any, the patient takes. 
+
+Paracetamol (also known as acetaminophen) is a good choice for fever and pain suppression. Keeping an illness diary will also help you to keep track of how much you've taken, when, to ensure you treat fever adequately without taking more than the recommended amount in a 24-hour period.
+
+[![](/images/diary-small-slanted.png)](/diary)
 
 #### Printable illness diary
 
-We made a **printable [illness diary](/images/covid-diary.pdf)** that you can use to write down all the information you collect when you take temperature, breathing rate, etc. If you like, you can print one of these forms for each day and keep them with the patient in case things get worse and you need to go to hospital.
-
-If you make your own illness diary instead, keep in mind it's better to keep it physical rather than electronic. This protects your medical data better from a privacy perspective. It also makes it easier to take the diary in to a doctor's office or hospital. To start the illness diary if you want to make your own instead of printing the form, you might take a sheet of blank computer paper or legal pad and turn it lengthwise (i.e., landscape-orient it). Write the fields you want to track on the left in the first column header. Write the first day's date at the top in the first row header. Then just fill it out as you go. 
-
-Columns should include: 
-- daily weight
-- temperature and time
-- fever medication: drug, dose, time(s)
-- other medications: same
-- pain: where, when, how bad it is from 0 (no pain) to 10 (worst pain imaginable)
-- coughing: does it hurt, is it productive, wet or dry, frequent or occasional, does it interfere with sleep?
-- mucus: what color, how much?
-- breathing: is it labored when you're doing nothing, or when you exert yourself? If shortness of breath bothers you, maybe start noting respiration rate in breaths per minute. 
+We made a **[printable illness diary](/diary)** that you can use to write down all the information you collect when you take temperature, breathing rate, etc. Please check out the form and our webpage about it via the link above.
 
 ### Get healthy again
 
-Treat pain and fever with over-the-counter medication of your preference (e.g., paracetamol) at the recommended safe dosages; getting in and out of the bath or shower can also help lower body temperature (even when the water temperature is comfortable). Try to keep eating nutritious food. Nothing too heavy, not too much at the same time. Lots of vitamins and fresh produce. Adequate carbohydrates (potatoes, rice, pasta, etc). Inhale steam 3+ times a day. Go for a daily walk when possible, while keeping distance from other people. If your throat is irritated, avoid acidic drinks (such as soda and juice) as they can be further irritating; water and herbal teas are better choices then. If your mucus (slime) production is high, consider avoiding dairy as it can increase mucus production; avoiding dairy, excessive salt intake, and nitrates (which are used in most cold cuts / deli meats) is also recommended for people with lung disease. If you want to try to suppress your cough enough to get a good night's sleep so your body can better heal itself, over-the-counter cough medications, herbal teas such as anise / chamomile, cocoa, and lozenges can help. Some over-the-counter cough medications contain ingredients like guaifenesin or NAC, mucolytics that relieve coughing by helping your body get rid of mucus (usually by making it thinner and so easier to cough up); your pharmacist can help you find one that's right for you. 
+Treat pain and fever with over-the-counter medication at the recommended safe dosages. Use paracetamol (also known as acetaminophen) if you can. Questions are emerging surrounding the safety of ibuprofen / non-steroidal anti-inflammatory medications as well as corticosteroids / steroidal anti-inflammatory medications, in case of coronavirus. If possible, avoid their use if you have symptoms. An additional safe way to treat fever is to take a bath or shower. The water temperature should be comfortable, not cold, because shivering can raise your core body temperature - and the idea is to lower it. When you get out of the bath or shower, the leftover water evaporating like sweat from your skin can help lower your temperature. 
+
+Try to keep eating nutritious food. Nothing too heavy, not too much at the same time. Lots of vitamins and fresh produce. Adequate carbohydrates (potatoes, rice, pasta, etc). Inhale steam 3+ times a day. Go for a daily walk when possible, while keeping distance from other people. If your throat is irritated, avoid acidic drinks (such as soda and juice) as they can be further irritating; water and teas are better choices then. 
+
+Notice the color and amount of your urine. If it is dark (more colored than clear), or there is not a lot, drink more water. It is very important to avoid and treat dehydration by drinking enough, even though it can be hard to drink enough when you have a fever / are sweating a lot, and are suffering from fatigue and discomfort due to illness. If you are struggling to drink enough and beginning to show signs of dehydration like darker urine, you might also try eating foods containing more water (e.g., cucumber, oranges, apples), sipping on boullion or soup, or setting a small goal for yourself (e.g., every time you get up, drink a glass of water). 
+
+Coughing can be an important, healthy effort on the part of the body to clear the lungs of fluid so you can breathe easier. Do not suppress a productive cough all the time / just because you don't want to be coughing. However, if you want to try to suppress your cough enough to get a good night's sleep so your body can better heal itself, then over-the-counter cough medications, herbal teas such as anise / chamomile, cocoa, and lozenges can help. Some over-the-counter cough medications contain ingredients like guaifenesin or NAC, generally considered safe mucolytics that relieve coughing by helping your body get rid of mucus (usually by making it thinner and so easier to cough up); your pharmacist can help you find one that's right for you. 
 
 ### Feeling better?
 
-Before you break your quarantine, health authorities may want to (re)test you to see you are really not contagious anymore. But maybe the number of cases is already so high that people will have to make their own decisions. Err on the side of safety and try to stay home for a little longer than officially indicated. 
+Before you break your quarantine, health authorities may want to (re)test you to see you are really not contagious anymore. But maybe the number of cases is already so high that people will have to make their own decisions. Err on the side of safety and try to stay home for a little longer than officially indicated. The [World Health Organization recommendation](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---16-march-2020) is to continue isolation for at least two weeks after symptoms disappear, even if you are no longer feeling sick. 
 
 If you managed to get tested, yay! You now know that your body (presumably, keep watching the latest science on this) has built immunity. Which means that this thing is over for you, and also that you are a more logical choice to help your family and friends when they get sick. Depending on what state the world is in, you may want to inform your employer and others that might depend on you that you've had it, so they know you're immune.

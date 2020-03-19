@@ -3,6 +3,40 @@
 
 @import "{{ site.theme }}";
 
-a#forkme_banner {
-  display: none !important;
+header.inner {
+	margin-top: 10px;
+}
+
+div.menu {
+    margin-top: 20px;
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+
+div.languages {
+	margin-bottom: 30px;
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+
+div.menu > div.item, div.languages> div.item {
+    display: table-cell;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    width: 2%; /* any number is ok */
+}
+
+div.item > a {
+    color: white;
+}
+
+div.item > a:active {
+    color: red;
+}
+
+#header_wrap .inner {
+    padding: 10px;
 }

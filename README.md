@@ -1,6 +1,6 @@
 ### The website that this github repository is the editing back-end to is live at
 
-# [covid-em-casa.info](https://www.covid-em-casa.info)
+# [covid-at-home.info](https://www.covid-at-home.info)
 
 
 ### Team meeting
