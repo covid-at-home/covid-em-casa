@@ -14,13 +14,9 @@ Este site é publicado sob uma licença [Creative Commons Attribution-NonCommerc
 
 Este site é melhor porque recebemos ajuda de (em ordem alfabética):
 
-* Jill BÃ¤hring
-* Lucky Green
-* Cecile Landman
-* Jakob Richers
-* Max Rodriguez Gomez
-* Katrin Schmidt
-* Andreas Steinhauser
+{% for person in site.data.thankyou.people %}
+* {{ person.name }}
+{% endfor %}
 
 ### Impressum
 
