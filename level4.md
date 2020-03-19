@@ -1,57 +1,57 @@
-## Level 4 -- Professionals Take Over
+## Nível 4 -- Os profissionais assumem
 
-As symptoms get worse and the patient deteriorates, the frequency with which measurements are taken should go up. At this point, your log should contain temperature, respiration, and heart rate every few hours.
+À medida que os sintomas pioram e o paciente se deteriora, a frequência com que as medidas são tomadas deve aumentar. Neste ponto, seu diário deve conter temperatura, respiração e freqüência cardíaca a cada poucas horas.
 
-You should interpret any of the following as a medical emergency:
+Você deve interpretar qualquer uma das seguintes situações como uma emergência médica:
 
-### Loss of consciousness
+### Perda de consciência
 
-There's different levels. When patient loses consciousness, make a note of whether the patient responds when you call their name (Voice), when you pinch the shoulder forcefully (Pain) or whether he/she does not respond at all (Unresponsive)
+Há diferentes níveis. Quando o paciente perde a consciência, anote se o paciente responde quando você chama seu nome (Voz), quando você belisca o ombro com força (Dor) ou se ele não responde de forma alguma (Não responde)
 
-If loss of consciousness is brief, you might (if patient quickly recovers and is fully awake again!) encourage the patient to eat and drink a bit, and freshly ventilating the room. But loss of consciousness is serious, get help.
+Se a perda de consciência for breve, você pode (se o paciente se recuperar rapidamente e estiver completamente desperto novamente!) encorajar o paciente a comer e beber um pouco, e a ventilar o quarto de novo. Mas a perda de consciência é grave, arranja ajuda.
 
-### Cognitive problems / confusion
+### Problemas cognitivos / confusão
 
-You probably know the patient, so you should be able to tell without any fancy tests if and when he/she is not with it anymore. Sudden onset of confusion is trouble. Seek medical help.
+Você provavelmente conhece o paciente, então você deve ser capaz de dizer sem nenhum teste extravagante se e quando ele não está mais com ele. O início repentino da confusão é um problema. Procura ajuda médica.
 
-### Too high or too low respiration rate
+### Taxa respiratória muito alta ou muito baixa
 
-Count respirations per minute by holding your hand close enough to feel the patient's breath, watching his or her chest, and / or watching his or her abdomen, while holding a clock with a second hand or a digital watch / phone stopwatch. Respiration rate (RR) should be between 12 and 20 breaths per minute. 
+Conte as respirações por minuto segurando a mão o suficiente para sentir a respiração do paciente, observando o seu peito e/ou o seu abdómen, enquanto segura um relógio com um ponteiro de segundos ou um relógio digital / cronómetro telefónico. A taxa de respiração (RR) deve estar entre 12 e 20 respirações por minuto. 
 
-Immediate home care for respiratory problems may include ventilating the patient's room and propping him or her up so that he or she can be in an upright but comfortably resting position. It is also a good idea to elevate the head of the bed for sleeping if possible, and there are some sleeping positions that can make breathing easier, too (see Level 3, Care work).
+Os cuidados domiciliares imediatos para problemas respiratórios podem incluir a ventilação do quarto do paciente e o apoio para que ele possa estar em posição vertical, mas confortavelmente descansado. Também é uma boa ideia elevar a cabeça da cama para dormir, se possível, e há algumas posições de sono que podem facilitar a respiração, também (ver Nível 3, Trabalho de cuidados).
 
 ![](/images/dyspnoe.png)
 
-If you or the patient are experiencing shortness of breath / labored breathing, seek medical advice. 
+Se você ou o paciente estiverem com falta de ar / respiração em trabalho de parto, procure aconselhamento médico. 
 
-### Low oxygen saturation
+### Baixa saturação de oxigénio
 
-If you have an oxymeter (see [shopping page](/shopping)), any oxygen saturation lower than 95%  may indicate a respiratory problem. If at any stage the patient's **lips or fingertips turn blue** (or even mildly blue) (called cyanosis), call an ambulance! Anything less than 96%, get fresh air into the patient's room, and get him or her warm.
+Se tiver um oxímetro (ver [página de compras](/shopping)), qualquer saturação de oxigénio inferior a 95% pode indicar um problema respiratório. Se em qualquer fase os **lips ou pontas dos dedos do paciente ficarem azuis** (ou mesmo ligeiramente azuis) (chamada cianose), chame uma ambulância! Qualquer coisa menos de 96%, leve ar fresco para o quarto do paciente, e aqueça-o.
 
-![](/images/cyanosis.png)
+![](/imagens/cyanosis.png)
 
-(Also call a doctor if the fingers, toes or lips turn less blue than this...)
+(Chame também um médico se os dedos das mãos, dedos dos pés ou lábios ficarem menos azuis que isto...)
 
-If the patient's skin gets a lacy purple overlay (also called livedo reticularis) like below (and that's not normal for the patient), that is also a reason to call for help.
+Se a pele do paciente ficar com uma camada roxa rendada (também chamada livedo reticularis) como abaixo (e isso não é normal para o paciente), isso também é um motivo para pedir ajuda.
 
 ![](/images/livedo-reticularis.png)
 
-### Very low blood pressure
+### Tensão arterial muito baixa.
 
-Blood pressure lower than the bottom of the normal range (90 mmHg systolic, 60 mmHg diastolic) is cause for concern. Note that blood pressure comes as two numbers, the systolic and diastolic pressure. If you have a cheap automatic device it should tell you both these numbers. If you have a device, note the systolic pressure on the [diary form](/images/covid-diary.pdf).
+A pressão arterial mais baixa que o fundo da faixa normal (90 mmHg sistólica, 60 mmHg diastólica) é motivo de preocupação. Note que a pressão arterial vem em dois números, a sistólica e a diastólica. Se você tem um dispositivo automático barato, ele deve dizer estes dois números. Se você tem um dispositivo, note a pressão sistólica no [formulário de diário](/images/covid-diary.pdf).
 
-If you do not have a device to measure blood pressure or have trouble getting a reading, then try testing the patient's capillary refill time instead. Check by placing his or her fingers flat on a hard surface. Use your finger to press down on one of his or fingernails from the top. The fingernail should lose color. Check how long it takes the fingernail to turn its normal color again. It should take 1-2 seconds. Longer than that may indicate low blood pressure. It could also be a symptom of dehydration. 
+Se você não tiver um dispositivo para medir a pressão arterial ou se tiver dificuldade em obter uma leitura, então tente testar o tempo de recarga capilar do paciente. Verifique colocando os dedos em uma superfície dura. Use o seu dedo para pressionar uma das suas unhas a partir do topo. A unha deve perder a cor. Verifique quanto tempo demora a unha a voltar a ter a sua cor normal. Deve demorar 1-2 segundos. Mais tempo do que isso pode indicar tensão arterial baixa. Também pode ser um sintoma de desidratação. 
 
-Dehydration is a common cause of low blood pressure, so immediate home care may include encouraging the patient to eat and drink, especially foods or beverages containing essential electrolytes like potassium and sodium. Dizziness is a common symptom of low blood pressure, so the dizzy patient will want to be careful while changing positions (laying to sitting up, sitting to standing); fainting may occur. But really, once again, if things do not look right somehow - if blood pressure is very low, or if the patient normally has high blood pressure and it's looking much lower than their normal - again, get help.
+A desidratação é uma causa comum de tensão arterial baixa, por isso os cuidados domiciliares imediatos podem incluir o incentivo ao paciente para comer e beber, especialmente alimentos ou bebidas que contenham eletrólitos essenciais como potássio e sódio. A tontura é um sintoma comum de tensão arterial baixa, por isso o paciente tonto vai querer ter cuidado ao mudar de posição (deitado para cima, sentado para ficar de pé); pode ocorrer desmaio. Mas na verdade, mais uma vez, se as coisas não parecem bem de alguma forma - se a pressão arterial está muito baixa, ou se o paciente normalmente tem a pressão arterial alta e parece muito mais baixa do que o normal - mais uma vez, procure ajuda.
 
-### Too high or too low heart rate
+### Ritmo cardíaco muito alto ou muito baixo
 
-Heart rate is easier to measure than blood pressure, and usually high heart rate (above 100-110 beats per minute for an adult) goes with low blood pressure. Smaller people and children often have normally higher heart rates. High heart rate alone may not be cause for alarm, as it may indicate anxiety or dehydration. Relaxation techniques and drinking / eating something might be appropriate. But once again, values outside the normal range here should cue you to seek medical help immediately. This is especially true if you see rapid breathing along with low blood pressure or high heart rate and / or confusion. 
+A frequência cardíaca é mais fácil de medir do que a pressão arterial, e geralmente a frequência cardíaca alta (acima de 100-110 batimentos por minuto para um adulto) vai com a pressão arterial baixa. As pessoas mais pequenas e as crianças têm, normalmente, batimentos cardíacos mais altos. A frequência cardíaca elevada por si só pode não ser causa de alarme, uma vez que pode indicar ansiedade ou desidratação. Técnicas de relaxamento e beber / comer algo pode ser apropriado. Mas, mais uma vez, valores fora do intervalo normal aqui devem dar-lhe a indicação para procurar ajuda médica imediatamente. Isto é especialmente verdade se você vê respiração rápida junto com pressão sanguínea baixa ou freqüência cardíaca alta e/ou confusão. 
 
-### Very high fever that comes (back) suddenly
+### Febre muito alta que vem (de volta) de repente
 
-If you check temperatures regularly, you will want to be aware that the trend can reverse suddenly, even when the patient seemed to be doing better earlier. Regular measurements are important. A fever that is very high (> 39° Celsius) is a cue to seek medical help. So is a fever that goes away and then comes back suddenly. 
+Se você verificar as temperaturas regularmente, você vai querer estar ciente de que a tendência pode se reverter de repente, mesmo quando o paciente parecia estar indo melhor mais cedo. As medições regulares são importantes. Uma febre muito alta (> 39Â° Celsius) é um sinal para procurar ajuda médica. Assim como uma febre que desaparece e depois volta de repente. 
 
-### Call for help
+### Chamada de ajuda
 
-When any of the above symptoms occur, things are serious! If at all possible, this is the point where you should not be taking any decisions based on a guide from the internet anymore. Do not wait for things to get worse. Call a doctor, or call the emergency number and get the patient in an ambulance pronto. Stay calm and report the situation as it is. Your job is done: You have kept a patient out of the medical system while he or she was just sick. Now it's time for professionals to handle it. The data you have been gathering should hopefully help you convince the operator, ambulance people, and doctors that you are not merely panicking for no reason and will likely help get the patient the care he or she needs sooner.
+Quando qualquer um dos sintomas acima ocorre, as coisas são sérias! Se possível, este é o ponto em que você não deve mais tomar decisões baseadas em um guia da internet. Não espere que as coisas piorem. Ligue para um médico ou ligue para o número de emergência e leve o paciente para uma ambulância imediatamente. Fique calmo e relate a situação como ela é. O teu trabalho está feito: Você tem mantido um paciente fora do sistema médico enquanto ele ou ela estava apenas doente. Agora é a hora dos profissionais lidarem com isso. Os dados que tem vindo a recolher deverão, assim o esperamos, ajudá-lo a convencer o operador, as ambulâncias e os médicos de que não está apenas a entrar em pânico sem motivo e que provavelmente o ajudará a obter o cuidado de que o paciente necessita mais cedo.

@@ -1,89 +1,89 @@
-## Shopping list
+## Lista de compras
 
-In addition to having approximately 2-4 weeks of essentials like groceries and other household supplies, here are some necessary and handy things to have if you are going to be taking care of someone with COVID-19. None of this is very expensive or requires special training to use. 
+Além de ter aproximadamente 2-4 semanas de coisas essenciais como mantimentos e outros suprimentos domésticos, aqui estão algumas coisas necessárias e úteis para ter se você for cuidar de alguém com COVID-19. Nada disto é muito caro ou requer treino especial para ser usado. 
 
-If we included examples (generally on the German version of Amazon), this is not a buying recommendation and we are not making any money if you click that precise one (or any other). By showing you the example, we mean nothing more than *"something like this."* Use whatever online or retail channel you like to get something similar. 
-
-&nbsp;
-
-### Must have
-
-* **Fever thermometer** (2-10 EUR/USD) ([example](https://www.amazon.de/gp/product/B001NYHXYS))
-
-   > ![](/images/thermometer.png)
-   > 
-   > So important that you should probably check yours if it's been in the bathroom cabinet for ages. Is the battery still OK? It really doesn't hurt to have two, just in case. At 2-10 bucks, they make great gifts (and as they may be inserted anally to get a more precise measurement, they may not be items you want to loan to someone.)
-
-* **Enough sheets, pillow casings, towels**
-   
-   > Stuff most everyone has in the home, but just to be sure: Once people get sick, you want to change the bed linens often, and you may use more towels also.
-   
-* **Cleaning supplies, bleach**
-
-* **Paracetamol (also known as acetaminophen, Tylenol or Panadol)**
-
-  > The fever supressant and painkiller of choice. Make sure you follow the packaging instructions and do not exceed the maximum recommended daily dose.
+Se incluímos exemplos (geralmente na versão alemã da Amazon), isto não é uma recomendação de compra e não estamos ganhando dinheiro se você clicar naquele exato (ou em qualquer outro). Ao mostrar-lhe o exemplo, não queremos dizer nada mais do que *"algo como isto "* Use qualquer canal online ou de varejo que você gosta para obter algo semelhante. 
 
 &nbsp;
 
-### Nice to have
+### Deve ter
 
-* **Pulse oxymeter** (20-25 EUR/USD) ([example](https://www.amazon.de/gp/product/B07P3ZS6L3))  **See note below!**
-   > ![](/images/pulse-oxi.png)
+* Termómetro de febre*** (2-10 EUR/USD) ([exemplo](https://www.amazon.de/gp/product/B001NYHXYS))
+
+   > ![](/imagens/thermometer.png)
    >
-   > Little gadget that clips on your finger and shows the heart rate (which is also easy to measure in other ways) and the oxygen saturation in the blood (which is hard to measure any other way).
+   > Tão importante que você provavelmente deveria verificar o seu se ele está no armário do banheiro há séculos. A bateria ainda está bem? Não custa nada ter dois, só para o caso de... Com 2-10 dólares, eles fazem grandes presentes (e como eles podem ser inseridos anally para obter uma medida mais precisa, eles podem não ser itens que você quer emprestar a alguém).
 
-* **Blood pressure meter** (20 EUR/USD or so) ([example](https://www.amazon.de/gp/product/B07KY867ZH))  **See note below!**
-   > ![](/images/blood-pressure.png)
-   > 
-   > There are simple tricks to see if someone's blood pressure is getting too low (see the main text on this site). However, it may be useful to be able to measure this more objectively, especially if you want to see/show a trend in the patient's blood pressure.<br>
-   > **However... What you should NOT do:** *You should not buy one of these, measure blood pressure, find something on the Internet that has a "normal range", and panic if your blood pressure is higher or lower. Lots of people have high or low blood pressure, and stress raises blood pressure (and heart rate). While an elevated blood pressure over a longer time may certainly be something you might want to mention to your doctor when you are there anyway, IT IS NOT A PROBLEM THAT YOU WANT TO BOTHER DOCTORS WITH IN THE MIDDLE OF A PANDEMIC."*
+*Suficientes lençóis, fronhas de almofada, toalhas***
    
-* **Incontinence / waterproof sheets** (20 EUR/USD or so) ([example](https://www.amazon.de/Comfortcare-Inkontinenz-Bettw%C3%A4sche-waschbar-Blau/dp/B07W7CCQVG) or [example](https://www.amazon.de/Co-operative-Independent-Living-Bettdeckenbezug-wasserabweisend/dp/B00BJMA8X2))
+   > Coisas que a maioria das pessoas tem em casa, mas só para ter a certeza: Quando as pessoas adoecem, você quer trocar as roupas de cama com freqüência, e pode usar mais toalhas também.
+   
+* Material de limpeza, lixívia...
+
+*Paracetamol (também conhecido como acetaminofen, Tylenol ou Panadol)*
+
+  > O supressor de febre e o analgésico de eleição. Certifique-se de seguir as instruções da embalagem e não exceda a dose máxima diária recomendada.
+
+&nbsp;
+
+#### É bom ter
+
+**Oximetro de pulso*** (20-25 EUR/USD) ([exemplo](https://www.amazon.de/gp/product/B07P3ZS6L3))  **Veja a nota abaixo!**
+   > ![](/imagens/pulse-oxi.png)
+   >
+   > Pequeno gadget que se prende no dedo e mostra o ritmo cardíaco (que também é fácil de medir de outras formas) e a saturação de oxigénio no sangue (que é difícil de medir de qualquer outra forma).
+
+* *Medidor de pressão de cheiro** (20 EUR/USD ou mais) ([exemplo](https://www.amazon.de/gp/product/B07KY867ZH))  **Veja a nota abaixo!**
+   > ![](/images/blood-pressure.png)
+   >
+   > Existem truques simples para ver se a pressão arterial de alguém está a ficar muito baixa (ver o texto principal neste site). No entanto, pode ser útil poder medir isto de forma mais objectiva, especialmente se quiser ver/mostrar uma tendência na tensão arterial do paciente.<br>
+   > No entanto... O que você NÃO deve fazer:** *Você não deve comprar um destes, medir a pressão arterial, encontrar algo na Internet que tenha uma "faixa normal", e entrar em pânico se a sua pressão arterial estiver mais alta ou mais baixa. Muitas pessoas têm pressão arterial alta ou baixa, e o stress aumenta a pressão arterial (e o ritmo cardíaco). Embora uma pressão arterial elevada durante um período de tempo mais longo possa certamente ser algo que você pode querer mencionar ao seu médico quando você estiver lá de qualquer maneira, NÃO É UM PROBLEMA QUE VOCÊ QUERIA MUITOS DOADORES COM O MEIO DE UM PANDÉMICO" *.
+   
+**Incontinência / folhas impermeáveis** (20 EUR/USD ou mais) ([exemplo](https://www.amazon.de/Comfortcare-Inkontinenz-Bettw%C3%A4sche-waschbar-Blau/dp/B07W7CCQVG) ou [exemplo](https://www.amazon.de/Co-operative-Independent-Living-Bettdeckenbezug-wasserabweisend/dp/B00BJMA8X2))
    > ![](/images/sheet.png)
    >
-   > Sick people sometimes have accidents. You'll thank us.
+   > As pessoas doentes às vezes têm acidentes. Você vai agradecer-nos.
 
-* **Steam inhaler** (25 EUR/USD or so) ([example](https://www.amazon.de/gp/product/B07SNQH6CZ))
+**Inalador de vapor*** (25 EUR/USD ou mais) ([exemplo](https://www.amazon.de/gp/product/B07SNQH6CZ))
    > ![](/images/steam.png)
    >
-   > Often sold as "face sauna" or whatever other names, they're just devices that output steam that is not too hot to breathe. Any other method that produces steam is also OK, just make sure you don't do damage with steam that's too hot. The device takes demineralized water ([example](https://www.amazon.de/gp/product/B07J5Y95MQ)), esp. in places where the tapwater is high in calcium. 
-   > **Warning:** Warm, wet devices are excellent means of spreading the virus around. Probably use for one sick person at a time or at least clean meticulously.
+   > Muitas vezes vendidos como "sauna facial" ou qualquer outro nome, são apenas aparelhos que emitem vapor que não está muito quente para respirar. Qualquer outro método que produza vapor também é OK, apenas certifique-se de não fazer danos com vapor que esteja muito quente. O dispositivo toma água desmineralizada ([exemplo](https://www.amazon.de/gp/product/B07J5Y95MQ)), especialmente em lugares onde a água da torneira é rica em cálcio. 
+   > **Aviso:** Os dispositivos quentes e húmidos são excelentes meios de propagação do vírus. Provavelmente usar para uma pessoa doente de cada vez ou pelo menos limpar meticulosamente.
 
-* **Vitamins** (a few EUR/USD) ([example](https://www.amazon.de/dp/B07S63PCZK))
+**Vitaminas*** (alguns EUR/USD) ([exemplo](https://www.amazon.de/dp/B07S63PCZK))
    > ![](/images/multi-vitamin.png)
    >
-   > For when the patient doesn't eat (much) anymore but still drinks. Maybe take the big multi-vitamin pills that fizz into water, a couple of tubes of those. Try getting ones that contain roughly 1-2 times the daily recommended dose of all the vitamins and minerals they contain, no crazy 1000% megadoses.
+   > Para quando o paciente já não come (muito), mas ainda bebe. Talvez tomar as grandes pílulas multi-vitamínicas que efervescem na água, um par de tubos desses. Tente obter aqueles que contenham aproximadamente 1-2 vezes a dose diária recomendada de todas as vitaminas e minerais que eles contêm, sem loucuras 1000% de megadoses.
 
-#### Important Note
+#### Nota importante
 
-A note on the first two items: some medical professionals we talk to feel the non-medically trained will do more harm or good when they start taking SpO2 or blood pressure measurements. We include the devices here because they are in common use and we feel that in some places, during some periods, the health system is not going to be able to cope with the numbers of people falling ill, and we tip the balance towards the advantages in being able to see/show trends.
+Uma nota sobre os dois primeiros itens: alguns profissionais médicos que falamos para sentir que os não treinados medicamente farão mais mal ou bem quando começarem a fazer medições de SpO2 ou pressão sanguínea. Incluímos aqui os dispositivos porque são de uso comum e sentimos que em alguns lugares, durante alguns períodos, o sistema de saúde não será capaz de lidar com o número de pessoas que adoecem, e inclinamos a balança para as vantagens de se poder ver/mostrar tendências.
 
-If you do decide you want to be able to measure blood pressure and SpO2, then at least properly familiarize yourself with the device. Practise! Also to get a good feel for what normal values in you and or your loved ones look like before anyone gets sick. Read our guidance on when **and when not** to seek help based on the information they provide.
+Se decidir que quer ser capaz de medir a tensão arterial e SpO2, então pelo menos familiarize-se devidamente com o dispositivo. Pratique! Também para ter uma boa noção de como são os valores normais em você e ou seus entes queridos antes que alguém fique doente. Leia as nossas orientações sobre quando **e quando não*** para procurar ajuda com base nas informações fornecidas por eles.
 
 &nbsp;
 
-### PPE (Personal Protective Equipment)
+### PPE (Equipamento de Protecção Individual)
 
-Shopping for PPE is more than a little tricky for several reasons.
+Comprar EPI é mais do que um pouco complicado, por várias razões.
 
-First, this may all be new. You may not be familiar with what kinds of protection are needed in what situations. The World Health Organization has very helpful instructions on [when to wear a mask and how to use masks](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks). You should wear a mask only if you are ill with known or suspected COVID-19 (fever, cough, shortness of breath), and whenever you are in the same room with someone who is ill with known or suspected COVID-19. Keep your hands off your mask while you're wearing it and keep using good hand-washing practices. Make sure you read some advice and watch some videos on when and how to safely put on, use, and dispose of your PPE to make sure it really works to protect you and others. (This is especially true if you use a respirator rather than a mask: It is surprisingly hard to make sure your respirator has a proper fit.)
+Primeiro, tudo isto pode ser novo. Você pode não estar familiarizado com os tipos de proteção que são necessários em que situações. A Organização Mundial da Saúde tem instruções muito úteis sobre [quando usar uma máscara e como usar máscaras](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks). Você só deve usar uma máscara se estiver doente com o COVID-19 conhecido ou suspeito (febre, tosse, falta de ar), e sempre que estiver no mesmo quarto com alguém que esteja doente com o COVID-19 conhecido ou suspeito. Mantenha as mãos longe da máscara enquanto a estiver usando e continue usando boas práticas de lavagem de mãos. Certifique-se de ler alguns conselhos e assistir a alguns vídeos sobre quando e como colocar, usar e descartar seu EPI com segurança para garantir que ele realmente funcione para proteger você e os outros. (Isto é especialmente verdade se você usar um respirador em vez de uma máscara: É surpreendentemente difícil garantir que o seu respirador tenha um ajuste adequado).
 
-And then there's the fact that some people have been panic-buying and some companies have been price-gouging, making essential equipment like masks unavailable in some places even to doctors and nurses who really need them. If it's still early in the pandemic, your government may be providing masks to people who live with and/or care for people with COVID-19. The section here describes things that you could try to get if you need to be caring for other people. 
+E depois há o facto de algumas pessoas terem comprado em pânico e de algumas empresas estarem a praticar preços, tornando equipamentos essenciais como máscaras indisponíveis em alguns locais, mesmo para médicos e enfermeiros que realmente precisam deles. Se ainda é cedo na pandemia, seu governo pode estar fornecendo máscaras para pessoas que vivem com e/ou cuidam de pessoas com COVID-19. A seção aqui descreve coisas que você poderia tentar obter se você precisa estar cuidando de outras pessoas. 
 
-So first and foremost, and we mean this: **Listen to official advice on what *not* to buy** so as to not make things unavailable to the doctors and nurses who need them the most. Policies and general practice with regard to masks are going to vary wildly accross the world for a while to come. Going outside with a mask or wearing one in regular daily life if you are healthy is not supported by the scientific evidence on staying well. If you have access to a mask, it probably makes sense to wear one if you feel a little ill or are coughing but _absolutely_have_to_ go out. It also makes sense if you are taking care of someone who is sick. It is even mandatory in the COVID quarantine home care protocols in some countries. Check under what circumstances authorities will provide you with masks. See the main text about further things to think about when it comes to containing the spread of the virus as much as possible.
+Portanto, antes de mais nada, e estamos a falar a sério: **Ouvir os conselhos oficiais sobre o que *não* comprar** para não tornar as coisas indisponíveis aos médicos e enfermeiros que mais precisam delas. As políticas e a prática geral no que diz respeito a máscaras vão variar muito por todo o mundo por um tempo. Ir lá fora com uma máscara ou usar uma na vida diária regular se você estiver saudável não é apoiado pela evidência científica de ficar bem. Se você tem acesso a uma máscara, provavelmente faz sentido usar uma se você se sente um pouco doente ou está tossindo, mas _absolutamente_ tem_ de_ sair. Também faz sentido se você está cuidando de alguém que está doente. É mesmo obrigatório nos protocolos de quarentena domiciliar da COVID em alguns países. Verifique em que circunstâncias as autoridades lhe fornecerão máscaras. Veja o texto principal sobre outras coisas para pensar quando se trata de conter a propagação do vírus o máximo possível.
 
-* **Medical mask, preferably N95** (a few EUR/USD)
-   > ![](/images/mask.png)
-   > 
-   > FFP2 or FFP3 respirators are also recommended. A regular face mask (surgical or procedural) is better than nothing if you cannot get a respirator. Note that the respirators come in version with and without a valve. The valve (often a round plastic thingy) lets out the exhaled air unfiltered. This is fine if you're spraypainting, and it may be fine if you are protecting a known healthy person from a known sick person, but under no circumstances should the sick wear a version with a valve. 
+* Máscara médica, de preferência N95** (alguns EUR/USD)
+   > ![](/imagens/máscara.png)
+   >
+   > respiradores FFP2 ou FFP3 também são recomendados. Uma máscara facial normal (cirúrgica ou de procedimento) é melhor do que nada se não se conseguir um respirador. Note que os respiradores vêm em versão com e sem válvula. A válvula (muitas vezes uma coisa redonda de plástico) deixa sair o ar exalado sem filtração. Isto é bom se você estiver pintando com spray, e pode ser bom se você estiver protegendo uma pessoa saudável conhecida de uma pessoa doente conhecida, mas sob nenhuma circunstância os doentes devem usar uma versão com uma válvula. 
 
-* **Gown / raincoat** (a few EUR/USD) ([example](https://www.amazon.de/dp/B07DFDFFRX))
+**Bata / capa de chuva** (alguns EUR/USD) ([exemplo](https://www.amazon.de/dp/B07DFDFFRX))
 
-   > Best is if you can find a long-sleeved, water-resistant gown. 
+   > O melhor é se conseguir encontrar um vestido de manga comprida e resistente à água. 
 
-* **Gloves** (less than a EUR/USD) ([example](https://www.amazon.de/dp/B01LWJ80C7))
+**Amostras*** (menos de um EUR/USD) ([exemplo](https://www.amazon.de/dp/B01LWJ80C7))
    > ![](/images/gloves.png)
 
-* **Eye protection, goggles or face shield** (a few EUR/USD) ([example](https://www.amazon.de/dp/B002THV25Y))
+**Protecção ocular, óculos de protecção ou protecção facial** (alguns EUR/USD) ([exemplo](https://www.amazon.de/dp/B002THV25Y))
    > ![](/images/glasses.png)
