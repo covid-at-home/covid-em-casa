@@ -1,35 +1,35 @@
-This website was made as a result of the COVID-19 pandemic, but much of the advice may be applicable in other situations. Much of what's discussed here may be common sense to some, but we felt it's still good to have some checklists and advice for various stages of illness in one place. While we consulted with nurses and doctors on much of this advice, most of this text was written by the non-medically trained, trying to puzzle together what makes sense in this new situation. 
+foi feito como resultado da COVID-19 pandemia, mas muito do conselho pode ser aplicável em outras situações. Muito do que é discutido aqui pode ser senso comum para alguns, mas sentimos que ainda é bom ter algumas listas de verificação e conselhos para vários estágios da doença em um só lugar. Embora tenhamos consultado enfermeiras e médicos sobre muitos destes conselhos, a maior parte deste texto foi escrita pelos não-médicos, tentando confundir juntos o que faz sentido nesta nova situação. 
 
-To be clear: **LISTEN TO LOCAL HEALTH AUTHORITIES, DOCTORS AND NURSES** when given the choice between that and something you found on the internet.
+Para ser claro: **OUÇA AS AUTORIDADES LOCAIS DE SAÚDE, DUTORES E NORMAS** quando lhe for dada a escolha entre isso e algo que encontrou na internet.
 
-As we started writing for this site in Berlin, Germany in the second week of March 2020, much about the virus was still unclear, but numbers of infected and dead were rising steadily, most recently in Italy. While it is not now - nor is it ever - a good time to panic, we do think it is now time to think and prepare.
+Quando começamos a escrever para este site em Berlim, Alemanha, na segunda semana de março de 2020, muito sobre o vírus ainda não estava claro, mas o número de infectados e mortos estava aumentando constantemente, mais recentemente na Itália. Embora não seja agora - nem nunca - um bom momento para entrar em pânico, pensamos que agora é hora de pensar e se preparar.
 
 ![](/images/virus.png)
 
-This guide is based on the assumption that in the coming months, more people than usual will either become ill or have ill people in their lives. Let's all hope for the best, but we're going to assume that doctors and hospitals are going to be very busy if not overloaded. We have to confront the possibility that some of the people who would normally be cared for under medical supervision might need to be cared for at home. We hope some of the information here will give you some confidence in dealing with this disease, which in and by itself will reduce the load on doctors and nurses who, from the looks of it, will be quite busy in weeks and months to come. At the same time, we hope to give you information that helps you tell when it is time to get professional medical help. Getting large amounts of people to get that balance right may make all the difference in the time to come. 
+Este guia é baseado no pressuposto de que nos próximos meses, mais pessoas do que o habitual ficarão doentes ou terão pessoas doentes nas suas vidas. Vamos todos esperar o melhor, mas vamos assumir que médicos e hospitais vão estar muito ocupados, se não sobrecarregados. Temos de enfrentar a possibilidade de algumas das pessoas que normalmente seriam cuidadas sob supervisão médica poderem precisar de ser cuidadas em casa. Esperamos que algumas das informações aqui contidas lhe dêem alguma confiança para lidar com esta doença, o que, por si só, reduzirá a carga de médicos e enfermeiros que, pelo que parece, estarão bastante ocupados nas próximas semanas e meses. Ao mesmo tempo, esperamos dar-lhe informações que o ajudem a saber quando é altura de obter ajuda médica profissional. Obter grandes quantidades de pessoas para conseguir esse equilíbrio pode fazer toda a diferença na hora certa. 
 
-This guide contains general advice that should be applicable in many places. We may add information that is specific to certain countries or regions, but you should keep your eyes open for more specific information from other credible sources that is more local to where you are. 
+Este guia contém conselhos gerais que devem ser aplicáveis em muitos lugares. Podemos acrescentar informações específicas de certos países ou regiões, mas você deve manter seus olhos abertos para obter informações mais específicas de outras fontes confiáveis que sejam mais locais para onde você está. 
 
-Some of the authors of this website are not known as great fans of government and authority, but at this point trust in the public health authorities is vital. Where there are discrepancies, trust reputable sources such as:
-* [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (International)
-* [Centers for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (USA)
-* [Robert Koch Institute](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Germany)
-* [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en) (EU) 
+Alguns dos autores deste site não são conhecidos como grandes fãs do governo e da autoridade, mas neste ponto a confiança nas autoridades de saúde pública é vital. Onde há discrepâncias, confie em fontes respeitáveis, como por exemplo:
+* [Organização Mundial da Saúde](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (Internacional)
+* [Centers for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (EUA)
+* [Instituto Robert Koch](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Alemanha)
+* [Centro Europeu de Prevenção e Controlo das Doenças] (https://www.ecdc.europa.eu/en) (UE)
 
-### Know the Facts: 
+### Conhecer os factos: 
 
-  * COVID-19 is real. 
-  * It's a virus from nature that mutated to infect human hosts after starting in animals. 
-  * It seems to be about twice as infectious and to cause far more pneumonia, other serious disease and deaths than the seasonal influenza virus (flu). It's also worse than the flu because the world population so far lacks immunity. New diseases are more dangerous, because their infection rates can grow incredibly rapidly (even having exponential growth). Such rapid transmission of a new disease can swiftly overwhelm even outstanding health-care systems, making it impossible for everyone who needs care to access it - and in turn contributing to more severe disease and death. 
-  * Containment of COVID-19 is the best chance we have to save a large number of lives. Containment requires widespread cooperation with and implementation of measures like accessible testing and social distancing (see Level 1 below).  
-  * For these reasons, it is time now to change our way of life (for now) to address the very real threat this pandemic poses to our world. 
+  * A COVID-19 é real. 
+  * É um vírus da natureza que mutou para infectar hospedeiros humanos depois de começar nos animais. 
+  * Parece ser cerca do dobro do infeccioso e causar muito mais pneumonia, outras doenças graves e mortes do que o vírus da gripe sazonal (gripe). Também é pior do que a gripe porque a população mundial até agora carece de imunidade. Novas doenças são mais perigosas, porque suas taxas de infecção podem crescer incrivelmente rápido (mesmo tendo um crescimento exponencial). Uma transmissão tão rápida de uma nova doença pode rapidamente dominar até mesmo sistemas de saúde excepcionais, tornando impossível o acesso de todos os que precisam de cuidados - e, por sua vez, contribuindo para doenças mais graves e para a morte. 
+  * A contenção da COVID-19 é a melhor hipótese que temos de salvar um grande número de vidas. A contenção requer uma ampla cooperação e implementação de medidas como testes acessíveis e distanciamento social (ver Nível 1 abaixo).  
+  * Por estas razões, é tempo agora de mudar o nosso modo de vida (por agora) para enfrentar a ameaça muito real que esta pandemia representa para o nosso mundo. 
 
-Remember that there is no difference in potential infectiousness between friends and strangers. There is no race, ethnic group, or nationality that is innately more likely to get or transmit the virus than another. Try to help others when you can without being in contact with large groups of people unnecessarily. There are obvious trade-offs here that everyone has to weigh for themselves. Some people will need to have more contact with other people than others. Slowing the spread is never absolute, but over all of society, our efforts still work when everyone does what they can, within their limits.
+Lembre-se que não há diferença de potencial infecciosidade entre amigos e estranhos. Não há raça, grupo étnico ou nacionalidade que tenha maior probabilidade inata de contrair ou transmitir o vírus do que outra. Tente ajudar os outros quando puder, sem estar em contacto com grandes grupos de pessoas desnecessariamente. Há aqui compensações óbvias que todos têm de pesar por si próprios. Algumas pessoas precisarão de ter mais contacto com outras pessoas do que outras. O abrandamento da propagação nunca é absoluto, mas sobre toda a sociedade, os nossos esforços ainda funcionam quando todos fazem o que podem, dentro dos seus limites.
 
 
-*At this point the site uses metric units in many places, although sometimes both metric and imperial units are provided. We hope to offer metric and imperial versions of everything in the next few days.*
+*Neste ponto o site usa unidades métricas em muitos lugares, embora às vezes sejam fornecidas unidades métricas e imperiais. Esperamos oferecer versões métricas e imperiais de tudo nos próximos dias.*
 
-> **YOU CAN HELP MAKE THIS SITE BETTER.** *If you see something that could be better, please [click here](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) to file an issue. As you can see there the backend of this website is on Github, so if you know that environment you can probably think of other ways to help. To be successful, this will need to be an expanding collaborative effort.*
+> **AJUDA A FAZER ESTE SITE MELHOR.** *Se você vir algo que poderia ser melhor, por favor [clique aqui](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) para arquivar um problema. Como você pode ver, o backend deste site está no Github, então se você conhece esse ambiente você provavelmente pode pensar em outras formas de ajudar. Para ser bem sucedido, isto terá de ser um esforço de colaboração em expansão.*
 
 &nbsp; 
 
