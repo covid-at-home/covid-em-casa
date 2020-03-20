@@ -1,8 +1,6 @@
 theme: jekyll-theme-slate
 title: COVID em Casa
+description: A collaborative guide to COVID-19 care
 url: https://covid-em-casa.info
 slug: covid-em-casa
-description: A collaborative guide to COVID-19 care
-show_downloads: false
-github:
-  is_project_page: false
+goatcounter: covid-em-casa
