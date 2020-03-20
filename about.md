@@ -23,7 +23,7 @@ Este site é melhor porque recebemos ajuda de (em ordem alfabética):
 (A lei alemã exige que os sites da Internet listem uma editora).
 
 Rop Gonggrijp & Vera Wilde<br>
-LinienstraÃ?e 127<br>
+Linienstrasse 127<br>
 10115 Berlin<br>
 Alemanha
 
