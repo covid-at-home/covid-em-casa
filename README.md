@@ -1,6 +1,6 @@
 ## O site que este repositório github é o back-up de edição...end to is live at
 
-# [covid-at-home.info](https://www.covid-at-home.info)
+# [covid-em-casa.info](https://www.covid-em-casa.info)
 
 
 ### Reunião de equipa
