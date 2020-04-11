@@ -2,7 +2,7 @@ COVID-19 diário
 
 Criamos um exemplo de como poderia ser uma página de diário no seu diário COVID. Parece-se muito com a informação que eles guardam sobre pacientes em hospitais. Pode parecer um pouco exagerado, mas permite que você acompanhe como alguém está se saindo e depois (se você precisar consultar um médico ou ir ao hospital) entregue os dados que você manteve em um formato que os médicos gostam de ler. Basta imprimir um destes para cada dia em que o paciente está doente. Como você não quer descobrir que está sem papel de impressão no meio disto, talvez imprima 20-30 destes como parte da sua preparação. Não te preocupes se não tiveres equipamento para fazer todas estas medições. (Embora seja muito barato de conseguir e não custa nada ter, veja a [página de compras](/shopping)).
 
-<a href="/images/covid-diary.pdf"><img style="border: 2px preto sólido; drop-shadow(16px 16px 10px preto)" src="/images/covid-diary.png"></a>
+<a href="/assets/images/covid-diary.pdf"><img style="border: 2px preto sólido; drop-shadow(16px 16px 10px preto)" src="/assets/images/covid-diary.png"></a>
 
 (clique na imagem para obter o PDF para imprimir)
 

@@ -1,6 +1,6 @@
 ## Nível 2 -- Sintomas Emergentes
 
-![](/images/sneezing-emoji.png)
+![](/assets/images/sneezing-emoji.png)
 
 Observe se você sofre de algum dos seguintes primeiros sintomas:
 
@@ -53,7 +53,7 @@ Depois escreva os sintomas que o paciente tiver. Se ele ou ela está com dor, on
 
 O paracetamol (também conhecido como acetaminofeno) é uma boa opção para a supressão da febre e da dor. Manter um diário de doença também o ajudará a manter-se a par de quanto tomou, quando, para garantir que trata a febre adequadamente sem tomar mais do que a quantidade recomendada num período de 24 horas.
 
-[![](/images/diary-small-slanted.png)](/diário)
+[![](/assets/images/diary-small-slanted.png)](/diário)
 
 ##### Diário de doença imprimível
 

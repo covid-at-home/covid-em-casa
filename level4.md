@@ -20,7 +20,7 @@ Conte as respirações por minuto segurando a mão o suficiente para sentir a re
 
 Os cuidados domiciliares imediatos para problemas respiratórios podem incluir a ventilação do quarto do paciente e o apoio para que ele possa estar em posição vertical, mas confortavelmente descansado. Também é uma boa ideia elevar a cabeça da cama para dormir, se possível, e há algumas posições de sono que podem facilitar a respiração, também (ver Nível 3, Trabalho de cuidados).
 
-![](/images/dyspnoe.png)
+![](/assets/images/dyspnoe.png)
 
 Se você ou o paciente estiverem com falta de ar / respiração em trabalho de parto, procure aconselhamento médico. 
 
@@ -34,11 +34,11 @@ Se tiver um oxímetro (ver [página de compras](/shopping)), qualquer saturaçã
 
 Se a pele do paciente ficar com uma camada roxa rendada (também chamada livedo reticularis) como abaixo (e isso não é normal para o paciente), isso também é um motivo para pedir ajuda.
 
-![](/images/livedo-reticularis.png)
+![](/assets/images/livedo-reticularis.png)
 
 ### Tensão arterial muito baixa.
 
-A pressão arterial mais baixa que o fundo da faixa normal (90 mmHg sistólica, 60 mmHg diastólica) é motivo de preocupação. Note que a pressão arterial vem em dois números, a sistólica e a diastólica. Se você tem um dispositivo automático barato, ele deve dizer estes dois números. Se você tem um dispositivo, note a pressão sistólica no [formulário de diário](/images/covid-diary.pdf).
+A pressão arterial mais baixa que o fundo da faixa normal (90 mmHg sistólica, 60 mmHg diastólica) é motivo de preocupação. Note que a pressão arterial vem em dois números, a sistólica e a diastólica. Se você tem um dispositivo automático barato, ele deve dizer estes dois números. Se você tem um dispositivo, note a pressão sistólica no [formulário de diário](/assets/images/covid-diary.pdf).
 
 Se você não tiver um dispositivo para medir a pressão arterial ou se tiver dificuldade em obter uma leitura, então tente testar o tempo de recarga capilar do paciente. Verifique colocando os dedos em uma superfície dura. Use o seu dedo para pressionar uma das suas unhas a partir do topo. A unha deve perder a cor. Verifique quanto tempo demora a unha a voltar a ter a sua cor normal. Deve demorar 1-2 segundos. Mais tempo do que isso pode indicar tensão arterial baixa. Também pode ser um sintoma de desidratação. 
 

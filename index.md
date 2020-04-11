@@ -4,11 +4,11 @@ Para ser claro: **OUÇA AS AUTORIDADES LOCAIS DE SAÚDE, DUTORES E NORMAS** quan
 
 Quando começamos a escrever para este site em Berlim, Alemanha, na segunda semana de março de 2020, muito sobre o vírus ainda não estava claro, mas o número de infectados e mortos estava aumentando constantemente, mais recentemente na Itália. Embora não seja agora - nem nunca - um bom momento para entrar em pânico, pensamos que agora é hora de pensar e se preparar.
 
-![](/images/virus.png)
+![](/assets/images/virus.png)
 
 Este guia é baseado no pressuposto de que nos próximos meses, mais pessoas do que o habitual ficarão doentes ou terão pessoas doentes nas suas vidas. Vamos todos esperar o melhor, mas vamos assumir que médicos e hospitais vão estar muito ocupados, se não sobrecarregados. Temos de enfrentar a possibilidade de algumas das pessoas que normalmente seriam cuidadas sob supervisão médica poderem precisar de ser cuidadas em casa. Esperamos que algumas das informações aqui contidas lhe dêem alguma confiança para lidar com esta doença, o que, por si só, reduzirá a carga de médicos e enfermeiros que, pelo que parece, estarão bastante ocupados nas próximas semanas e meses. Ao mesmo tempo, esperamos dar-lhe informações que o ajudem a saber quando é altura de obter ajuda médica profissional. Obter grandes quantidades de pessoas para conseguir esse equilíbrio pode fazer toda a diferença na hora certa.
 
-[![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
+[![](/assets/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
 
 Este guia contém conselhos gerais que devem ser aplicáveis em muitos lugares. Podemos acrescentar informações específicas de certos países ou regiões, mas você deve manter seus olhos abertos para obter informações mais específicas de outras fontes confiáveis que sejam mais locais para onde você está. 
 
