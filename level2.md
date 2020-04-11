@@ -53,11 +53,11 @@ Depois escreva os sintomas que o paciente tiver. Se ele ou ela está com dor, on
 
 O paracetamol (também conhecido como acetaminofeno) é uma boa opção para a supressão da febre e da dor. Manter um diário de doença também o ajudará a manter-se a par de quanto tomou, quando, para garantir que trata a febre adequadamente sem tomar mais do que a quantidade recomendada num período de 24 horas.
 
-[![](/assets/images/diary-small-slanted.png)](/diário)
+[![](/assets/images/diary-small-slanted.png)](/diary)
 
 ##### Diário de doença imprimível
 
-Fizemos um **[diário de doença imprimível](/diário)** que você pode usar para anotar todas as informações que você coleta quando toma a temperatura, taxa de respiração, etc. Por favor, consulte o formulário e a nossa página web sobre isso através do link acima.
+Fizemos um **[diário de doença imprimível](/diary)** que você pode usar para anotar todas as informações que você coleta quando toma a temperatura, taxa de respiração, etc. Por favor, consulte o formulário e a nossa página web sobre isso através do link acima.
 
 ### Volta a ficar saudável
 
