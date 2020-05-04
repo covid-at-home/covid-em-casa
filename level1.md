@@ -35,7 +35,7 @@ Você pode se sentir bem. Mas o vírus pode se espalhar antes de você sentir os
 
 Aqui você precisará de informações locais atualizadas. Caminhadas na rua podem ser ilegais onde você está (por um período), enquanto muito dos conselhos aqui podem ser mandatórios. Você pode ser requerido a fazer outras coisas que não constam nesta lista, como [ter sua temperatura mensurada antes de comprar suprimentos num supermercado](https://www.sciencemag.org/news/2020/03/not-wearing-masks-protect-against-coronavirus-big-mistake-top-chinese-scientist-says). Deixe que informações locais e atualizadas guiem você quando houver conflitos com tais informações e o texto aqui.
 
-{{ site.data.tags.breakout.begin }}
+{{ site.data.tags.breakout.end }}
 
 ### Permaneça Saudável
 
