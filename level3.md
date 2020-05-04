@@ -36,7 +36,7 @@ Alguns comportamentos possivelmente úteis incluem:
 
 ### Diário de Doença
 
-Como mencionado na seção anterior, você pode querer usar este [formulário para impressão](/assets/images/covid-diary.pdf), ou fazer o seu próprio. 
+Como mencionado na seção anterior, você pode querer usar este [formulário para impressão](/images/covid-diary.pdf), ou fazer o seu próprio. 
 
 Nesta fase, preste especial atenção e note sintomas que possam sugerir um agravamento. Leia a secção seguinte para mais detalhes, mas estes incluem tonturas ou ritmo cardíaco acelerado (beba mais e coma algo se puder), respiração rápida (eleve a cabeça enquanto se deita ou desça até à mesa enquanto se senta para respirar mais facilmente), e uma tonalidade azul na ponta dos dedos ou lábios (cianose - apanhe ar fresco, aquece-se e verifique a oxigenação do sangue, se possível). Considere também o uso de técnicas de relaxamento para abrandar uma respiração rápida ou um ritmo cardíaco que pode ser parcialmente devido à ansiedade: Ouça música calmante, entre em contacto com um amigo electronicamente ou veja se consegue abrandar a respiração e baixar o ritmo cardíaco, contando mais tempo para uma exalação vigorosa do que para uma inalação suave. (Algumas pessoas usam 4-7-8 e outras preferem 5-2-5 para tentar abrandar os seus padrões de inalação de inalação de xisto).
 

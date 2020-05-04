@@ -1,13 +1,16 @@
 items:
 
-- title: Pagina Principal
+- title: Página Principal
   url: /
   
-- title: Lista de compras
+- title: Compras
   url: /shopping
+  
+- title: Máscara Facial
+  url: /facemask
 
-- title: Puedo ayudar!
+- title: Eu posso ajudar:
   url: /help
             
-- title: Sobre nosotros
+- title: Sobre
   url: /about

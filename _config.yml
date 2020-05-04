@@ -1,6 +1,18 @@
 remote_theme: covid-at-home/common
 title: COVID em Casa
-description: A collaborative guide to COVID-19 care
+description: Um guia colaborativo para tratamento de COVID-19
 url: https://covid-em-casa.info
 slug: covid-em-casa
-goatcounter: covid-em-casa
+goatcounter: covid_em_casa
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME

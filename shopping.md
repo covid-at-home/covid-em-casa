@@ -34,24 +34,24 @@ Se incluímos exemplos (geralmente na versão alemã da Amazon), isto não é um
    > Pequeno gadget que se prende no dedo e mostra o ritmo cardíaco (que também é fácil de medir de outras formas) e a saturação de oxigénio no sangue (que é difícil de medir de qualquer outra forma).
 
 * *Medidor de pressão de cheiro** (20 EUR/USD ou mais) ([exemplo](https://www.amazon.de/gp/product/B07KY867ZH))  **Veja a nota abaixo!**
-   > ![](/assets/images/blood-pressure.png)
+   > ![](/images/blood-pressure.png)
    >
    > Existem truques simples para ver se a pressão arterial de alguém está a ficar muito baixa (ver o texto principal neste site). No entanto, pode ser útil poder medir isto de forma mais objectiva, especialmente se quiser ver/mostrar uma tendência na tensão arterial do paciente.<br>
    > No entanto... O que você NÃO deve fazer:** *Você não deve comprar um destes, medir a pressão arterial, encontrar algo na Internet que tenha uma "faixa normal", e entrar em pânico se a sua pressão arterial estiver mais alta ou mais baixa. Muitas pessoas têm pressão arterial alta ou baixa, e o stress aumenta a pressão arterial (e o ritmo cardíaco). Embora uma pressão arterial elevada durante um período de tempo mais longo possa certamente ser algo que você pode querer mencionar ao seu médico quando você estiver lá de qualquer maneira, NÃO É UM PROBLEMA QUE VOCÊ QUERIA MUITOS DOADORES COM O MEIO DE UM PANDÉMICO" *.
    
 **Incontinência / folhas impermeáveis** (20 EUR/USD ou mais) ([exemplo](https://www.amazon.de/Comfortcare-Inkontinenz-Bettw%C3%A4sche-waschbar-Blau/dp/B07W7CCQVG) ou [exemplo](https://www.amazon.de/Co-operative-Independent-Living-Bettdeckenbezug-wasserabweisend/dp/B00BJMA8X2))
-   > ![](/assets/images/sheet.png)
+   > ![](/images/sheet.png)
    >
    > As pessoas doentes às vezes têm acidentes. Você vai agradecer-nos.
 
 **Inalador de vapor*** (25 EUR/USD ou mais) ([exemplo](https://www.amazon.de/gp/product/B07SNQH6CZ))
-   > ![](/assets/images/steam.png)
+   > ![](/images/steam.png)
    >
    > Muitas vezes vendidos como "sauna facial" ou qualquer outro nome, são apenas aparelhos que emitem vapor que não está muito quente para respirar. Qualquer outro método que produza vapor também é OK, apenas certifique-se de não fazer danos com vapor que esteja muito quente. O dispositivo toma água desmineralizada ([exemplo](https://www.amazon.de/gp/product/B07J5Y95MQ)), especialmente em lugares onde a água da torneira é rica em cálcio. 
    > **Aviso:** Os dispositivos quentes e húmidos são excelentes meios de propagação do vírus. Provavelmente usar para uma pessoa doente de cada vez ou pelo menos limpar meticulosamente.
 
 **Vitaminas*** (alguns EUR/USD) ([exemplo](https://www.amazon.de/dp/B07S63PCZK))
-   > ![](/assets/images/multi-vitamin.png)
+   > ![](/images/multi-vitamin.png)
    >
    > Para quando o paciente já não come (muito), mas ainda bebe. Talvez tomar as grandes pílulas multi-vitamínicas que efervescem na água, um par de tubos desses. Tente obter aqueles que contenham aproximadamente 1-2 vezes a dose diária recomendada de todas as vitaminas e minerais que eles contêm, sem loucuras 1000% de megadoses.
 
@@ -83,7 +83,7 @@ Portanto, antes de mais nada, e estamos a falar a sério: **Ouvir os conselhos o
    > O melhor é se conseguir encontrar um vestido de manga comprida e resistente à água. 
 
 **Amostras*** (menos de um EUR/USD) ([exemplo](https://www.amazon.de/dp/B01LWJ80C7))
-   > ![](/assets/images/gloves.png)
+   > ![](/images/gloves.png)
 
 **Protecção ocular, óculos de protecção ou protecção facial** (alguns EUR/USD) ([exemplo](https://www.amazon.de/dp/B002THV25Y))
-   > ![](/assets/images/glasses.png)
+   > ![](/images/glasses.png)
