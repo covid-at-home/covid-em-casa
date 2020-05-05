@@ -39,7 +39,7 @@ Aqui você precisará de informações locais atualizadas. Caminhadas na rua pod
 
 ### Permaneça Saudável
 
-![](/assets/imagens/situps.png)
+![](/assets/images/situps.png)
 
 Além disso, você pode fazer as seguintes coisas para ficar o mais saudável possível:
 

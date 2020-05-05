@@ -14,11 +14,11 @@ Informações neste site são providenciadas para fins de se informar, e não é
 
 Quando começamos a escrever para este site, em Berlim, na Alemanha, na segunda semana de Março de 2020, muito do vírus estava incerto, mas o número de infectados e mortos estavam crescendo consistentemente, mais recentemente na Itália. Independente se o vírus causou a crise total em que você esteja ou não: este é o momento de pensar e se preparar.
 
-![](/images/virus.png)
+![](/assets/images/virus.png)
 
 Este guia é baseado na presunção de que nos próximos meses, mais pessoas do que o normal irão ficar doentes ou ter outras pessoas na sua vida que estão doentes. Vamos esperar pelo melhor, mas nós vamos assumir que médicos e hospitais vão  ficar muito ocupados, senão sobrecarregados. Nós vamos confrontar a possibilidade de que algumas pessoas que iriam ser cuidadas normalmente, com supervisionamento médico talvez tenham que se cuidar em casa. Esperamos que as informações aqui irão te ajudar a ter alguma confiança em lidar com esta doença, o que irá ajudar a reduzir a carga sobre médicos e enfermeiras, que, pelo o que parece, vão estar muito ocupados nas semanas e meses a vir. Ao mesmo tempo, esperamos te dar informação que te ajude a saber quando é a hora de ligar para um profissional de saúde para obter ajuda. Podemos fazer toda a diferença no sistema de saúde, se conseguirmos fazer com que grandes quantidades de pessoas possam agir na hora certa.
 
-[![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
+[![](/assets/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
 
 &nbsp;
 
